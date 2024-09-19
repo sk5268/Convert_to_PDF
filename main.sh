@@ -5,7 +5,7 @@ if [[ "$1" == "--delete" ]]; then
     delete_files=true
 fi
 
-for file in *.ppt *.pptx; do
+for file in *.ppt *.pptx *.docx; do
     if [[ -f "$file" ]]; then
         echo "Converting $file to PDF..."
         libreoffice --headless --convert-to pdf "$file"
