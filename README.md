@@ -1,4 +1,4 @@
-# Convert_PPTs
+# Convert_to_PDF
 
 ### Export all PPTs int PDFs with a single command
 ---
