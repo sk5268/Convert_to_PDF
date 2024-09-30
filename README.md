@@ -9,10 +9,12 @@
 ---
 
 ### Usage
+<details>
+<summary>Linux</summary>
 1. put the executable file in the directory containing the slides.
 2. run ```./main.sh``` in the terminal.
 3. Use ```--delete``` parameter to delete the original files after conversion.
-
+</details>
 
 ---
 
