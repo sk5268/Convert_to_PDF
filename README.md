@@ -10,16 +10,19 @@
 
 ### Usage
 <details>
-<summary>Linux</summary>
-1. put the executable file in the directory containing the slides.
-2. run ```./main.sh``` in the terminal.
-3. Use ```--delete``` parameter to delete the original files after conversion.
+  <summary>Linux</summary>
+  <ol>
+    <li>Put the executable file in the directory containing the slides.</li>
+    <li>Run <code>./main.sh</code> in the terminal.</li>
+    <li>Use the <code>--delete</code> parameter to delete the original files after conversion.</li>
+  </ol>
 </details>
+
 
 ---
 
 ### History
-All the notes (from lectures) I recieve are in PPT/PPTX format which I'm not fond of.
+All the notes (from lectures) I recieve are in ppt/pptx/Docx format which I'm not fond of.
 
 Even If I have to export a single PPT into PDF, it takes several clicks and a bit of time, which gets multiplied for multiple files.
 
