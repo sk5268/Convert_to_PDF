@@ -10,10 +10,19 @@
 
 ### Usage
 <details>
-  <summary>Linux</summary>
+  <summary>Linux & Unix</summary>
   <ol>
-    <li>Put the executable file in the directory containing the slides.</li>
-    <li>Run <code>./main.sh</code> in the terminal.</li>
+    <li>Put the shell file in the directory containing the slides.</li>
+    <li>Run <code>./bash_script.sh</code> in the terminal.</li>
+    <li>Use the <code>--delete</code> parameter to delete the original files after conversion.</li>
+  </ol>
+</details>
+
+<details>
+  <summary>Windows</summary>
+  <ol>
+    <li>Put the bat file in the directory containing the slides.</li>
+    <li>Either Run <code>win_batch_script.bat</code> in the CMD for parameters or double click the bat file in explorer to run with default parameter (No Delete)</li>
     <li>Use the <code>--delete</code> parameter to delete the original files after conversion.</li>
   </ol>
 </details>
